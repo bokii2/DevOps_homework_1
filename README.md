@@ -1,2 +1,2 @@
-# DevOps_homework_1
+# DevOps Homework 1
 This is the first homework!
